@@ -1,2 +1,3 @@
 # rechnernetzwerkpraktikum
-Mein Rechnernetzwerk Pratikum von der Uni. alle Verbesserungen  Versionen
+Mein Rechnernetzwerk Pratikum aus der Uni. 
+alle Verbesserungen  Versionen
